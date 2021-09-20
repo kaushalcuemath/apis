@@ -1,34 +1,32 @@
-[
-    {
-        "student_course_info": {
-			"access_level": "BASIC",
-			"access_type": "WITHOUT_TEACHER",
-			"activated_by_teacher": false,
-			"class_pause_date": null,
-			"class_ratio": null,
-			"class_restart_date": null,
-			"class_start_date": null,
-			"classes_balance": 0,
-			"classes_purchased": 0,
-			"course_activation_status": "awaiting_parent_preferences",
-			"course_code": "WILDFIRE.MATH.IND",
-			"course_id": "6519f1a0-d982-11eb-8347-02420a00c8f6",
-			"course_name": "Wildfire Math India",
-			"course_stream": "MATH",
-			"course_type": "math",
-			"cue_course_type": "FREEMIUM",
-			"has_bought_classes": false,
-			"id": "05bcba84-0598-11ec-8238-ce2566cdb46c",
-			"is_demo": false,
-			"is_foundation": false,
-			"onboard_acknowledged": false,
-			"primary_teacher_id": null,
-			"slot_preferences": null,
-			"source": "WEBSITE",
-			"state": "ACTIVE",
-			"student_course_fee_id": null,
-			"student_id": "ff8deb86-0597-11ec-a1bc-1ae72f3dcd8f",
-			"validity_till_date": 1661365800
-		}
-    }
-]
+{
+	"student_course_info": {
+		"access_level": "BASIC",
+		"access_type": "WITHOUT_TEACHER",
+		"activated_by_teacher": false,
+		"class_pause_date": null,
+		"class_ratio": null,
+		"class_restart_date": null,
+		"class_start_date": null,
+		"classes_balance": 0,
+		"classes_purchased": 0,
+		"course_activation_status": "awaiting_parent_preferences",
+		"course_code": "WILDFIRE.MATH.IND",
+		"course_id": "6519f1a0-d982-11eb-8347-02420a00c8f6",
+		"course_name": "Wildfire Math India",
+		"course_stream": "MATH",
+		"course_type": "math",
+		"cue_course_type": "FREEMIUM",
+		"has_bought_classes": false,
+		"id": "05bcba84-0598-11ec-8238-ce2566cdb46c",
+		"is_demo": false,
+		"is_foundation": false,
+		"onboard_acknowledged": false,
+		"primary_teacher_id": null,
+		"slot_preferences": null,
+		"source": "WEBSITE",
+		"state": "ACTIVE",
+		"student_course_fee_id": null,
+		"student_id": "ff8deb86-0597-11ec-a1bc-1ae72f3dcd8f",
+		"validity_till_date": 1661365800
+	}
+}
