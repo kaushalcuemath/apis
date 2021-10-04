@@ -1,6 +1,6 @@
 {
     "value": {
-        "can_reschedule_before": 1,
-        "multiplier": 1
+        "student_reschedule_range": 12,
+        "reschedule_month_multiplier": 1
     }
 }
