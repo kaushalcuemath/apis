@@ -1,6 +1,27 @@
 {
     "value": {
-        "student_reschedule_range": 12,
-        "reschedule_month_multiplier": 1
-    }
+        "packs": [
+          {
+             "duration": 3,
+             "reschedules": 3
+          },
+          {
+             "duration": 6,
+             "reschedules": 6
+          },
+          {
+            "duration": 12,
+            "reschedules": 12
+         },
+         {
+            "duration": 18,
+            "reschedules": 18
+         },
+         {
+            "duration": 24,
+            "reschedules": 24
+         }
+        ],
+        "reschedule_multiplier": 1
+      }
 }
