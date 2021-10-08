@@ -22,6 +22,7 @@
             "reschedules": 24
          }
         ],
-        "reschedule_multiplier": 1
+        "reschedule_multiplier": 1,
+        "can_reschedule_before_x_hours": 12
       }
 }
